@@ -1,6 +1,7 @@
+.*
 .DS_Store
 temp/
-images/
+original_images/
 node_modules/
 generated/
 .sass-cache/
